@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khodehamid
+- 👋 Hi, I’m @blackstars
 - 👀 I’m interested in programming :)
-- 🌱 I’m currently learning dart
+- 🌱 I’m currently learning not your business :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
